@@ -1,6 +1,3 @@
-﻿# Supply Chain Dashboard
-
-# 📊 Supply Chain Dashboard  
 
 # 📊 Supply Chain Dashboard  
 
@@ -57,10 +54,11 @@ Pandas – Data processing
 Plotly Dash – Interactive dashboard creation
 HTML / CSS – Styling
 
-👩‍💻 Author
+👩‍💻 Author  
 Keerthi Thallapelly   
 GitHub: Keerthi-Thallapelly  
 LinkedIn: www.linkedin.com/in/keerthi-thallapelly-597419321
+
 
 
 
