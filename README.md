@@ -12,9 +12,17 @@ An **interactive dashboard** to analyze supply chain data, built with **Python**
 It provides real-time insights into **inventory, orders, and delivery performance** with filtering options for **categories, regions, and dates**.  
 
 🖼 Screenshot
+### Dashboard Overview
+![Dashboard Screenshot 1](screenshots/Screenshot%202025-08-08%20111809.png)
 
+### Inventory Analysis
+![Dashboard Screenshot 2](screenshots/Screenshot%202025-08-08%20111832.png)
 
+### Orders View
+![Dashboard Screenshot 3](screenshots/Screenshot%202025-08-08%20111904.png)
 
+### Delivery Performance
+![Dashboard Screenshot 4](screenshots/Screenshot%202025-08-08%20111915.png)
 ## ✨ Features  
 - 📈 Interactive charts and graphs  
 - 🔍 Filter data by **category, region, and date**  
@@ -48,8 +56,9 @@ Plotly Dash – Interactive dashboard creation
 HTML / CSS – Styling
 
 👩‍💻 Author
-Keerthi Thallapelly
-GitHub: Keerthi-Thallapelly
+Keerthi Thallapelly   
+GitHub: Keerthi-Thallapelly  
 LinkedIn: www.linkedin.com/in/keerthi-thallapelly-597419321
+
 
 
