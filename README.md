@@ -3,7 +3,9 @@
 
 [![Last Commit](https://img.shields.io/github/last-commit/Keerthi-Thallapelly/supply-chain-dashboard)](https://github.com/Keerthi-Thallapelly/supply-chain-dashboard/commits/main)  
 [![Repo Size](https://img.shields.io/github/repo-size/Keerthi-Thallapelly/supply-chain-dashboard)](https://github.com/Keerthi-Thallapelly/supply-chain-dashboard)  
-[![License](https://img.shields.io/github/license/Keerthi-Thallapelly/supply-chain-dashboard)](LICENSE)  
+
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE.txt) file for details.
 
 
 ## 📌 Overview  
@@ -58,6 +60,7 @@ HTML / CSS – Styling
 Keerthi Thallapelly   
 GitHub: Keerthi-Thallapelly  
 LinkedIn: www.linkedin.com/in/keerthi-thallapelly-597419321
+
 
 
 
